@@ -1,1 +1,1 @@
-# -w6-Visualization-project_Patricia
+# w6-Visualization-project_Patricia
